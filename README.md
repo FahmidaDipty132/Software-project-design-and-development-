@@ -1,2 +1,3 @@
 # Software-project-design-and-development
 semester 7th
+Our exchange-wise software is Money Exchange Software. It is a digital platform designed to simplify currency conversion and exchange services. It allows users to convert USD/EUR/INR/GBP to BDT and other currencies in real time using updated exchange rates. The system also helps users find nearby brokers and manage secure transactions easily. This software ensures accuracy, transparency, and convenience for users and vendors, making the money exchange process faster and more reliable.
